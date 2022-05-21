@@ -123,7 +123,7 @@ const PostSlice = createSlice({
     },
 });
 
-export const PostActiions = PostSlice.actions;
+export const PostActions = PostSlice.actions;
 export const PostReducer = PostSlice.reducer;
 
 
