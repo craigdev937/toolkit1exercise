@@ -59,11 +59,6 @@ nav a:hover, nav a:focus {
     text-decoration: underline;
 }
 
-main {
-    max-width: 500px;
-    margin: auto;
-}
-
 section {
     margin-top: 1em;
 }
@@ -95,6 +90,11 @@ form {
 
 textarea {
     height: 200px;
+}
+
+.main {
+    max-width: 500px;
+    margin: auto;
 }
 
 .postCredit {
